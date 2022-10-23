@@ -82,6 +82,4 @@ public class State {
     public HashMap<String, State> getMove() {
         return move;
     }
-    
-
 }
